@@ -1,0 +1,27 @@
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\bin\Debug\DatBan.exe.config
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\bin\Debug\DatBan.exe
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\bin\Debug\DatBan.pdb
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\obj\Debug\DatBan.csprojResolveAssemblyReference.cache
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\obj\Debug\DatBan.Form1.resources
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\obj\Debug\DatBan.Properties.Resources.resources
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\obj\Debug\DatBan.csproj.GenerateResource.Cache
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\obj\Debug\DatBan.exe
+c:\users\kim phat\documents\visual studio 2015\Projects\DatBan\DatBan\obj\Debug\DatBan.pdb
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\bin\Debug\DatBan.exe.config
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\obj\Debug\DatBan.exe
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\obj\Debug\DatBan.pdb
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\bin\Debug\DatBan.exe
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\bin\Debug\DatBan.pdb
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\obj\Debug\DatBan.csprojResolveAssemblyReference.cache
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\obj\Debug\DatBan.Form1.resources
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\obj\Debug\DatBan.Properties.Resources.resources
+C:\Users\Kim Phat\Documents\BTNhom\DatBan\DatBan\obj\Debug\DatBan.csproj.GenerateResource.Cache
+D:\BTNhom\BTNhom\DatBan\DatBan\bin\Debug\DatBan.exe.config
+D:\BTNhom\BTNhom\DatBan\DatBan\obj\Debug\DatBan.exe
+D:\BTNhom\BTNhom\DatBan\DatBan\obj\Debug\DatBan.pdb
+D:\BTNhom\BTNhom\DatBan\DatBan\bin\Debug\DatBan.exe
+D:\BTNhom\BTNhom\DatBan\DatBan\bin\Debug\DatBan.pdb
+D:\BTNhom\BTNhom\DatBan\DatBan\obj\Debug\DatBan.csprojResolveAssemblyReference.cache
+D:\BTNhom\BTNhom\DatBan\DatBan\obj\Debug\DatBan.Form1.resources
+D:\BTNhom\BTNhom\DatBan\DatBan\obj\Debug\DatBan.Properties.Resources.resources
+D:\BTNhom\BTNhom\DatBan\DatBan\obj\Debug\DatBan.csproj.GenerateResource.Cache
